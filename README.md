@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+「タイトルを変更」
+=======
 ホゲホゲ
+>>>>>>> d529df8cfbfc547a1a14b551dbfeaa00ddddc63d
 
 # techMentor-test
 Git,Github 演習課題
@@ -11,7 +15,13 @@ Git,Github 演習課題
 05. mainブランチに移動し、mainブランチでREADMEファイルの1行目を「ホゲホゲ」に変更する。
 06. 変更した内容をcommitし、リモートのmainブランチに反映させる
 07. ローカル環境で04で作成した「#1_practice」のブランチに移動する
+<<<<<<< HEAD
+08. #1_practiceブランチでReadmeの1行目を「タイトルを変更」と入力し、
+
+変更をcommitし、リモートの#1_practiceブランチに反映させる。
+=======
 08. #1_practiceブランチでReadmeの1行目を「タイトルを変更」と入力し、変更をcommitし、リモートの#1_practiceブランチに反映させる。
+>>>>>>> d529df8cfbfc547a1a14b551dbfeaa00ddddc63d
 09.反映後、githubにて、main←#1_practiceのプルリクエストを作成する。
 10.コンフリクトが発生していると表示されていることを確認する。
 11.ローカル環境に戻り、#1_practiceのブランチでgit pull origin mainを行う。
